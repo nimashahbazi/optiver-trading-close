@@ -1,6 +1,6 @@
 # Optiver Trading at the Close Analysis with LSTM and ConvNet
 
-This repository contains two machine learning models developed for analyzing Optiver trading at the close on Kaggle [Optiver Trading at the Close Competition Overview](https://www.kaggle.com/competitions/optiver-trading-at-the-close/overview): a Long Short-Term Memory (LSTM) model and a Convolutional Neural Network (ConvNet) model. Both models are designed to predict stock return using different approaches and feature sets.
+This repository contains two machine learning models developed for analyzing Optiver trading at the close on Kaggle [Optiver Trading at the Close Competition Overview](https://www.kaggle.com/competitions/optiver-trading-at-the-close/overview): a Long Short-Term Memory (LSTM) model and a Convolutional Neural Network (ConvNet) model. Both models are designed to predict stock return using raw features without any feature engineering and a small set of imbalance features only.
 
 ## LSTM Model
 
