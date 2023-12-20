@@ -8,7 +8,7 @@ The LSTM model is built using raw features along with target lag. This model emp
 
 - **Performance**: The model achieved a score of 5.3508 on the public leaderboard.
 - **Features**: Utilizes raw features and target lag.
-- **Notebook**: The model's implementation can be found on Kaggle under the username `nimashahbazi`. [Link to Notebook](#)
+- **Notebook**: The model's implementation can be found on Kaggle under the username `nimashahbazi`.
 
 ## ConvNet Model
 
@@ -17,7 +17,7 @@ The ConvNet model, in contrast, incorporates imbalance features only with raw fe
 - **Performance**: This model scored 5.3439 on the public leaderboard, the key performace comes from the residual part.
 - **Features**: Includes imbalance features.
 - **Improvement Suggestion**: By adding couple more features like global stock mapping, the performance could easily reach 5.33X.
-- **Notebook**: The ConvNet model's implementation is also available on Kaggle under the username `nimashahbazi`. [Link to Notebook](#)
+- **Notebook**: The ConvNet model's implementation is also available on Kaggle under the username `nimashahbazi`. 
 
 ## Getting Started
 
